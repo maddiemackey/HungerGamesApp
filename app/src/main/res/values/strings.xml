@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">The Hunger Games</string>
+    <string name="title_home">Home</string>
+    <string name="title_kill_registration">Register Kills</string>
+    <string name="title_players">Players</string>
+    <string name="title_games">Games</string>
+
+    <string name="title_notifications">Notifications</string>
+
+    <string name="button_register_kill">Confirm Kill</string>
+    <string name="camera_text">Please focus on the QR code</string>
+
+    <string name="downloading">Downloading&#8230;</string>
+    <string name="avatar">Avatar</string>
+
+    <string name="game_icon">Game icon</string>
+    <string name="registration_open">Registration open</string>
+    <string name="in_progress">In progress</string>
+
+    <string name="happy_hunger">Happy Hunger Games!</string>
+    <string name="odds">And may the odds be ever in your favour.</string>
+
+    <string name="codes">Codes</string>
+    <string name="qr">QR</string>
+    <string name="nfc">NFC</string>
+    <string name="kill_reg_instructions">Please enter kill details:</string>
+
+    <string name="victim_killcode">Victim\'s killcode</string>
+    <string name="username_hint">Please enter your username.</string>
+    <string name="username">Username</string>
+    <string name="killcode_instruction">Please enter the victim\'s killcode on their dog tag.</string>
+    <string name="coming_soon">COMING SOON</string>
+
+    <string name="post_image">post image</string>
+
+</resources>

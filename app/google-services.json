@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "547557835233",
+    "firebase_url": "https://hunger-games-1d85a.firebaseio.com",
+    "project_id": "hunger-games-1d85a",
+    "storage_bucket": "hunger-games-1d85a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547557835233:android:e9deca2eb77caca7",
+        "android_client_info": {
+          "package_name": "com.mad.hungergames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547557835233-756k2t1iq5ncbj4ml3c75g5og1g1f45i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mad.hungergames",
+            "certificate_hash": "8a512a1bdbd1f65db2746b4bebf46da08da8e01d"
+          }
+        },
+        {
+          "client_id": "547557835233-uld7cv34kp2jts28c8gnrpfe8tkunqoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY5Dw1wa9d7KP0yF5H_5exCOJma3W8V8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547557835233-uld7cv34kp2jts28c8gnrpfe8tkunqoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
